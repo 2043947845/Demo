@@ -1,0 +1,14 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+thop
+tqdm
+pandas
+psutil
+seaborn
+timm
+py-cpuinfo
